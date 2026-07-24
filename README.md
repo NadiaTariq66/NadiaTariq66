@@ -1,0 +1,104 @@
+# Hi 👋, I'm Nadia Tariq
+
+**Full Stack Developer | Backend Engineer | Building modern web applications with Node.js & React**
+
+---
+
+## 🚀 About Me
+
+I enjoy building scalable web applications that solve real-world problems.
+
+I can help with:
+
+- ✔ Backend Development (Node.js, Express.js, NestJS)
+- ✔ REST API Development
+- ✔ Database Design (MongoDB, PostgreSQL, MySQL)
+- ✔ Authentication & Authorization (JWT, OAuth)
+- ✔ Full Stack Development (React, Next.js)
+- ✔ Third-party API Integrations
+- ✔ Performance Optimization
+- ✔ Cloud Deployment (AWS, Firebase, Vercel)
+- ✔ AI-powered Applications
+- ✔ Modern UI & User Experience
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Tools**
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🌱 Currently Building
+
+- Modern SaaS Applications
+- AI-powered Web Apps
+- Full Stack Products
+- Open Source Projects
+- Interactive 3D Experiences
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm always interested in collaborating on:
+
+- SaaS Products
+- AI Applications
+- Startup Ideas
+- Developer Tools
+- Open Source
+- Innovative Full Stack Projects
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [Portfolio](https://nadia-tariq.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nadia-tariq)
+- 📧 [Email](mailto:tariqnadia830@gmail.com)
+
+---
+
+<div align="center">
+
+![Nadia Tariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadiaTariq66&show_icons=true&theme=default&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiaTariq66&layout=compact&theme=default&hide_border=true)
+
+</div>
