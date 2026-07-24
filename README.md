@@ -10,16 +10,16 @@ I enjoy building scalable web applications that solve real-world problems.
 
 I can help with:
 
-- ✔ Backend Development (Node.js, Express.js, NestJS)
-- ✔ REST API Development
-- ✔ Database Design (MongoDB, PostgreSQL, MySQL)
-- ✔ Authentication & Authorization (JWT, OAuth)
-- ✔ Full Stack Development (React, Next.js)
-- ✔ Third-party API Integrations
-- ✔ Performance Optimization
-- ✔ Cloud Deployment (AWS, Firebase, Vercel)
-- ✔ AI-powered Applications
-- ✔ Modern UI & User Experience
+- Backend Development (Node.js, Express.js, NestJS)
+- REST API Development
+- Database Design (MongoDB, PostgreSQL, MySQL)
+- Authentication & Authorization (JWT, OAuth)
+- Full Stack Development (React, Next.js)
+- Third-party API Integrations
+- Performance Optimization
+- Cloud Deployment (AWS, Firebase, Vercel)
+- AI-powered Applications
+- Modern UI & User Experience
 
 ---
 
@@ -87,11 +87,11 @@ I'm always interested in collaborating on:
 
 ---
 
-## 📫Let's Connect
+## Let's Connect
 
-- 🌐 [Portfolio](https://nadia-tariq.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nadia-tariq)
-- 📧 [Email](mailto:tariqnadia830@gmail.com)
+- [Portfolio](https://nadia-tariq.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/nadia-tariq)
+- [Email](mailto:tariqnadia830@gmail.com)
 
 ---
 
