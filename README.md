@@ -1,10 +1,10 @@
-# Hi 👋, I'm Nadia Tariq
+# Hey, I'm Nadia Tariq
 
 **Full Stack Developer | Backend Engineer | Building modern web applications with Node.js & React**
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I enjoy building scalable web applications that solve real-world problems.
 
@@ -23,7 +23,7 @@ I can help with:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend**
 
@@ -64,7 +64,7 @@ I can help with:
 
 ---
 
-## 🌱 Currently Building
+## Currently Building
 
 - Modern SaaS Applications
 - AI-powered Web Apps
@@ -74,7 +74,7 @@ I can help with:
 
 ---
 
-## 🤝 Let's Collaborate
+## Let's Collaborate
 
 I'm always interested in collaborating on:
 
@@ -87,7 +87,7 @@ I'm always interested in collaborating on:
 
 ---
 
-## 📫 Let's Connect
+## 📫Let's Connect
 
 - 🌐 [Portfolio](https://nadia-tariq.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nadia-tariq)
