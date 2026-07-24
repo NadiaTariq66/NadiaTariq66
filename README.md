@@ -94,11 +94,3 @@ I'm always interested in collaborating on:
 - [Email](mailto:tariqnadia830@gmail.com)
 
 ---
-
-<div align="center">
-
-![Nadia Tariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadiaTariq66&show_icons=true&theme=default&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiaTariq66&layout=compact&theme=default&hide_border=true)
-
-</div>
