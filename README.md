@@ -1,59 +1,111 @@
-# Hi 👋, I'm Nadia Tariq
+# Hey, I'm Nadia Tariq
 
-**Full Stack Developer** · 3+ years building scalable SaaS & business platforms
-
-[Portfolio](https://nadia-tariq.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/nadia-tariq) · [Email](mailto:tariqnadia830@gmail.com)
+**Full Stack Developer | Backend Engineer | Building modern web applications with Node.js & React**
 
 ---
 
 ## About Me
 
-Full Stack Developer specializing in **JavaScript/TypeScript** — Node.js (NestJS, Express.js), React.js, and PHP (Laravel). I design responsive frontends, RESTful/GraphQL APIs, and microservice-based systems.
+I enjoy building scalable web applications that solve real-world problems.
 
-Improved API performance by **30%** through database optimization and cut deployment time by **40%** with CI/CD automation.
+I can help with:
+
+- Backend Development (Node.js, Express.js, NestJS, PHP, Laravel)
+- REST API Development
+- Database Design (MongoDB, PostgreSQL, MySQL)
+- Authentication & Authorization (JWT, OAuth2)
+- Full Stack Development (React, Next.js)
+- Third-party API Integrations
+- Performance Optimization
+- Cloud Deployment (AWS, Firebase, Vercel, Heroku)
+- AI-powered Applications
+- Modern UI & User Experience
 
 ---
 
 ## Tech Stack
 
-**Backend:** Node.js · NestJS · Express.js · TypeScript · PHP · Laravel  
-**Frontend:** React.js · TypeScript · Tailwind CSS · Bootstrap  
-**Databases:** MongoDB · PostgreSQL · MySQL · Firebase · Supabase  
-**Cloud & DevOps:** AWS · Docker · GitHub Actions · Vercel · Heroku · Firebase  
-**Auth & APIs:** JWT · OAuth2 · REST · GraphQL · WebSockets
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+**Auth & APIs**
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+**Tools**
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## Experience
+## Currently Building
 
-**Full Stack Developer** — Creative Code Tech *(Nov 2024 – Present)*  
-Microservices with NestJS/React/PHP · Firebase · CI/CD · AWS Lambda/S3
-
-**Full Stack Developer** — BerryBoost Inc *(Jul 2023 – Nov 2024)*  
-React · Node.js · Express · MongoDB · JWT/OAuth2
-
-**Node.js Developer** — Content Studio, USA *(Dec 2022 – May 2023)*  
-REST APIs · MongoDB · JWT auth · performance optimization
+- Modern SaaS Applications
+- AI-powered Web Apps
+- Full Stack Products
+- Open Source Projects
+- Interactive 3D Experiences
 
 ---
 
-## Featured Projects
+## Let's Collaborate
 
-- [**Meditour Global**](https://meditour.global/) — Medical tourism platform (React, Node.js, Stripe, Twilio)
-- [**Property Management System**](https://businesscntr.ae/) — Tenants, leases, rent tracking & dashboards
-- [**ADDTHIS.co**](https://addthis.co/) — Digital loyalty platform backend (Node.js, Firebase)
-- [**Design Time Furniture**](https://designtimefurniture.com/) — Booking APIs with Stripe & AR support
+I'm always interested in collaborating on:
 
----
-
-## Education
-
-**BS Computer Science** — Government College University Lahore *(2018 – 2022)*
+- SaaS Products
+- AI Applications
+- Startup Ideas
+- Developer Tools
+- Open Source
+- Innovative Full Stack Projects
 
 ---
 
-<div align="center">
+## Let's Connect
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NadiaTariq66&show_icons=true&theme=default&hide_border=true)
+- [Portfolio](https://nadia-tariq.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/nadia-tariq)
+- [Email](mailto:tariqnadia830@gmail.com)
 
-</div>
+---
